@@ -4,6 +4,8 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
+#EXTINF:-1 group-title="INDONESIA", RED HBO TEST
+https://delivery.macan.tv/stream/redhbo/playlist.m3u8?token=e2183&v=20200807
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vuuqfuqq0eaedea/mola.jpg?dl=0" group-title="SPORTS", MOLA TV 1
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
