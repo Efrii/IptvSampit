@@ -700,6 +700,10 @@ https://mkctv.net/usetvvv/ngw.m3u8
 https://salonbondang.masuk.web.id/ekonomis/stream/history-ZalogiAstroXTV.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="KNOWLEDGE", DW
+http://210.210.155.35/qwr9ew/s/s26/02.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfdmmvr7MxCcxD2NK4s9WV3d-_xH0YwZdGiw&usqp=CAU" group-title="KNOWLEDGE", LOVE NATURE
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-love-nature-ZalogiAstroXTV.m3u8
 
@@ -948,8 +952,6 @@ http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_s
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="KNOWLEDGE", DW
-http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="HIBURAN LUAR", V CHANNEL
 http://210.210.155.35/qwr9ew/s/s41/02.m3u8
