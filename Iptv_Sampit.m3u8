@@ -342,6 +342,10 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://rr.dens.tv/h/h08/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=K-PLUS
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JKnwdwG/logo-galaxy-small1.png" group-title="HIBURAN", GALAXY
+https://mkctv.net/usetvvv/galaxi.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FXs3pRX/logo-kix-small.png" group-title="HIBURAN", KIX 1
 http://210.210.155.35/session/b32c7bf2-c313-11e8-9362-c81f66f89318/uq2663/h/h07/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FXs3pRX/logo-kix-small.png" group-title="HIBURAN", KIX 2
@@ -400,6 +404,13 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(041307e6-5f66-42cc
 
 
 ============================ SPORTS ==================================
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Z6ZrN6/logo-foxsports1-small.png" group-title="SPORTS", FOXSPORT 1
+http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q9KqL8F/logo-foxsports2-small.png" group-title="SPORTS", FOXSPORT 2
+http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
+http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/w0YhQHc/logo-bein1-small1.png" group-title=SPORTS", BEIN SPORT 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5YsWxfz/logo-bein2-small1.png" group-title="SPORTS", BEIN SPORT 2
@@ -686,14 +697,6 @@ http://thepwfamily.com/stream/bioskopindonesia.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="SPORTS", FOXSPORT 1
-http://thepwfamily.com/stream/foxsport1.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="SPORTS", FOXSPORT 2
-http://thepwfamily.com/stream/foxsport2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="SPORTS", FOXSPORT 3
-http://thepwfamily.com/stream/foxsport3.m3u8
 
 
 
@@ -701,32 +704,33 @@ http://thepwfamily.com/stream/foxsport3.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JKnwdwG/logo-galaxy-small1.png" group-title="HIBURAN", GALAXY
-https://mkctv.net/usetvvv/galaxi.m3u8
 
 
 
+=========================KNOWLEDGE===================================
 
-
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="INDONESIA", MY TV LIVE
-http://thepwfamily.com/stream/mtvlive.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="KNOWLEDGE", NATGEO PEOPLE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HzpNk1p/logo-natgeopeople-small.png" group-title="KNOWLEDGE", NATGEO PEOPLE
 https://mkctv.net/usetvvv/ngp.m3u8
 
- #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="KNOWLEDGE", NATGEO WILD
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cTJK11Q/logo-natgeowild-small.png" group-title="KNOWLEDGE", NATGEO WILD
 https://mkctv.net/usetvvv/ngw.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="ENTERTAIMENT", HISTORY
-http://thepwfamily.com/stream/histori.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yX2TqG5/logo-history-small.png" group-title="KNOWLEDGE", HISTORY
+https://salonbondang.masuk.web.id/ekonomis/stream/history-ZalogiAstroXTV.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfdmmvr7MxCcxD2NK4s9WV3d-_xH0YwZdGiw&usqp=CAU" group-title="KNOWLEDGE", LOVE NATURE
+https://salonbondang.masuk.web.id/ekonomis/stream/premi-love-nature-ZalogiAstroXTV.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY
 http://thepwfamily.com/stream/cgtndocumentary.m3u8
 
-#EXTINF:-1 tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv_indonesia-lengkap.png" group-title="KNOWLEDGE", HGTV
-http://thepwfamily.com/stream/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="KNOWLEDGE", HGTV
+https://salonbondang.masuk.web.id/ekonomis/stream/hgtv-ZalogiAstroXTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", CHAMPION TV 1 HD
 http://thepwfamily.com/stream/champions1.m3u8
@@ -1175,15 +1179,3 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/medi
 
 #EXTINF:-1 group-title="MUSIC AYSAR",AYSAR BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 group-title="LIFE STYLE", MOTO GP
-http://183.182.100.184/live/pptvthai/playlist.m3u8
-
-#EXTINF:-1 group-title="LIFE STYLE", ASTRO CERIA
-http://ts.lemmovie.com/ec85b2d2-8539-4d40-bfc2-64abcf7e8984.m3u8
- 
-#EXTINF:-1 group-title="LIFE STYLE", WWE
-http://mu02.cularu.com:8880/yw12m1047/hUHW2TeptN/3083
-
-#EXTINF:-1 group-title="LIFE STYLE", COBA DOANG
-http://198.16.112.126:3333/sunshine/pVqwQzAdd6pQZ7fuviaP116T7EDdcXl7Rk1Xvbh99G25FYxwkny00TXweDwZqAZ1nrK-Rk93hRUsQrfkqk8CcaKjUZeDY23wyAhFIUOkw8Lbjn9wef6Sy04HjgJecNMy3GWVGPjedJc9DtKMQZaMPbGvE1aWq75yFkEWZxiwh6ZiYjONpdePpaTc8MWXm1TO/v.ts
