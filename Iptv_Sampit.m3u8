@@ -625,16 +625,6 @@ http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA", JAMNI TV TEST
 http://122.248.43.138:1935/ch23/myStream/chunklist_w1683966742.m3u8
 
-#EXTINF:-1 group-title="INDONESIA", ADITV TEST
-http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8?nimblesessionid=3956264
-
-
-
-#EXTINF:-1 group-title="INDONESIA", HGTV TEST
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10359
-
-#EXTINF:-1 group-title="INDONESIA", SCI SCIENCE TEST
-http://1milltvbox.loginto.me:25461/MgjTVPzTY8/T3hIFzVMp6/10335
 
 #EXTINF:-1 group-title="INDONESIA", HDFASHION TEST
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
