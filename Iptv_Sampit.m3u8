@@ -593,10 +593,11 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496946176554323968/mvKcSPoE.jpeg" group-title="RELIGI", BRITIS MUSLIM
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-avc1_2000000=2-mp4a_65600_eng=1.m3u8
 
-#EXTINF:-1 group-title="INDONESIA", ALIMAN TEST
+#EXTINF:-1 tvg-logo="https://sdislamaliman.sch.id/wp-content/uploads/2019/11/logo-al-iman.png" group-title="RELIGI", ALIMAN
 http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
 
-#EXTINF:-1 group-title="INDONESIA", AHSANTV TEST http://119.82.224.75:1935/live/ahsantv/chunk.m3u8?wowzasessionid=313753155L
+#EXTINF:-1 group-title="INDONESIA", AHSANTV TEST 
+http://119.82.224.75:1935/live/ahsantv/chunk.m3u8?wowzasessionid=313753155L
 
 #EXTINF:-1 group-title="INDONESIA", JAMNI TV TEST
 http://122.248.43.138:1935/ch23/myStream/chunklist_w1683966742.m3u8
