@@ -17,7 +17,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(56a81d9a-f190-463b
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mkm4cY/logo-useeprime-small1.png" group-title="LIFE STYLE", USEE PRIME
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m05mKgX/logo-idku2-small.png" group-title="INDONESIA", ID KU
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
 
@@ -32,15 +32,20 @@ https://salonbondang.masuk.web.id/ekonomis/stream/vidio-tvri-ZalogiAstroXTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThKxFP4/logo-beritasatu-small1.png" group-title="INDONESIA", JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ThKxFP4/logo-beritasatu-small1.png" group-title="INDONESIA", BERITA SATU 1
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="MORE INDONESIAN CHANNEL" tvg-logo="https://dl.dropboxusercontent.com/s/twvoqkvnxbc0isb/berita%20satu.png?dl=0",BERITA SATU 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThKxFP4/logo-beritasatu-small1.png" group-title="INDONESIA", BERITA SATU 2
+http://103.130.186.138:8800/oxygenplay/beritasatu/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ThKxFP4/logo-beritasatu-small1.png" group-title="INDONESIA", BERITA SATU 3
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-beritasatu-ZalogiAstroXTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA", TV ONE 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQJqJjs/logo-tvone-small1.png" group-title="INDONESIA", TV ONE 1
+http://103.130.186.138:8800/oxygenplay/tvone/index.m3u8 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQJqJjs/logo-tvone-small1.png" group-title="INDONESIA", TV ONE 2
 http://rr2.dens.tv/s/s105/02.m3u8?app_type=mobile&userid=iefqvij4db&tkn=LYT1ZDUWA38M6YOFXESPEPDVI2099Z4M&chname=tvOne
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png?v=2.0.0.13" group-title="INDONESIA", TV ONE 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fQJqJjs/logo-tvone-small1.png" group-title="INDONESIA", TV ONE 3
 http://210.210.155.35/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
 
 
@@ -59,7 +64,7 @@ http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7bZVHC/logo-kompastv-small.png" group-title="INDONESIA", KOMPAS TV 2
 http://rr2.dens.tv/s/s104/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Kompas_TV
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7bZVHC/logo-kompastv-small.png" group-title="INDONSEIA",KOMPAS TV 3
-https://salonbondang.masuk.web.id/ekonomis/stream/vidio-kompas-ZalogiAstroXTV.m3u8
+http://103.130.186.138:8800/oxygenplay/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M7bZVHC/logo-kompastv-small.png" group-title="INDONESIA",KOMPAS TV 4 
 https://salonbondang.masuk.web.id/ekonomis/stream/kompastv-ZalogiAstroXTV.m3u8
 
@@ -70,14 +75,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w672934803_b384000_sleng.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnbcid_small.png" group-title="INDONESIA", CNBC INDONESIA
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6TFvd0/logo-cnbcid-small.png" group-title="INDONESIA", CNBC INDONESIA 1
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j6TFvd0/logo-cnbcid-small.png" group-title="INDONESIA", CNBC INDONESIA 2
+http://103.130.186.138:8800/oxygenplay/sinemaindonesia/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vbz3qlpr95k8jsg/inews.png?dl=0" group-title="INDONESIA", INEWS 1 
-https://salonbondang.masuk.web.id/ekonomis/stream/vidio-inews-ZalogiAstroXTV.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vbz3qlpr95k8jsg/inews.png?dl=0" group-title="INDONESIA", INEWS 1
+http://103.130.186.138:8800/oxygenplay/inews/index.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vbz3qlpr95k8jsg/inews.png?dl=0" group-title="INDONESIA", INEWS 2
 https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000=2.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vbz3qlpr95k8jsg/inews.png?dl=0" group-title="INDONESIA", INEWS 3
+https://salonbondang.masuk.web.id/ekonomis/stream/vidio-inews-ZalogiAstroXTV.m3u8
 
 
 #EXTINF:-1 group-title="INDONESIAN" tvg-logo="https://i.ibb.co/s9PRf5f/logo-rri-small1.png", RRI NET 1
@@ -95,20 +104,24 @@ http://rr2.dens.tv/s/s07/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBv0RPc/logo-sctv-small1.png" group-title="INDONESIA", SCTV 1
-http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+http://103.130.186.138:8800/oxygenplay/sctv/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wBv0RPc/logo-sctv-small1.png" group-title="INDONESIA", SCTV 2
+http://45.126.83.51/session/d80df878-8cad-11ea-bfcb-b2cb8b1764b3/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wBv0RPc/logo-sctv-small1.png" group-title="INDONESIA", SCTV 3
 http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=SCTV
 
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.13" group-title="INDONESIA", INDOSIAR SD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzrpMWK/logo-indosiar-small1.png" group-title="INDONESIA", INDOSIAR 1
+http://103.130.186.138:8800/oxygenplay/indosiar/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzrpMWK/logo-indosiar-small1.png" group-title="INDONESIA", INDOSIAR 2
 http://45.126.83.51/session/14634f0e-8cad-11ea-b612-a356856d6632/qwr9ew/s/s04/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png?v=2.0.0.13" group-title="INDONESIA", INDOSIAR HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bzrpMWK/logo-indosiar-small1.png" group-title="INDONESIA", INDOSIAR 3
 http://rr2.dens.tv/s/s04/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Indosia
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/kcvjpf6fl19ukmu/net.png?dl=0" group-title="INDONESIA", NET TV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FvZm1N/logo-net-small1.png" group-title="INDONESIA", NET TV 1
 http://103.130.186.138:8800/oxygenplay/nettv/index.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/kcvjpf6fl19ukmu/net.png?dl=0" group-title="INDONESIA",NET TV 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4FvZm1N/logo-net-small1.png" group-title="INDONESIA",NET TV 2
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-net-ZalogiAstroXTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4FvZm1N/logo-net-small1.png" group-title="INDONESIA", NET TV 3
 http://45.126.83.51/session/fb7020e6-8c0f-11ea-8a06-9856b417ec10/qwr9ew/s/s08/01.m3u8
@@ -132,31 +145,31 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_w541018224_b744100_sle
 http://210.210.155.35:80/qwr9ew/s/s101/02.m3u8?app_type=mobile&userid=2m4n6yjvyen&tkn=CURG2HD4BSEXBXU0R06QXEJWCRIVSOFC&chname=Trans7
 
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/cp7onmak0jodty4/RCTI.png?dl=0" group-title="BASIC TERRESTRIAL",RCTI 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRjyZXM/rcti-8458c0.jpg" group-title="INDONESIA",RCTI 1 
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-rcti-ZalogiAstroXTV.m3u8
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/cp7onmak0jodty4/RCTI.png?dl=0" group-title="BASIC TERRESTRIAL",RCTI 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRjyZXM/rcti-8458c0.jpg" group-title="INDONESIA",RCTI 2 
 https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/luOi_zazH1vtQCkgL6IHPw5dWGI=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg" group-title="INDONESIA", RCTI 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pRjyZXM/rcti-8458c0.jpg" group-title="INDONESIA", RCTI 3
 https://dl.dropbox.com/s/rurf6j98vbbq2qc/rcti.m3u8?dl=0
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6JL6B6X/GTV.png" group-title="INDONESIA", GLOBALTV 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gj76v4jkc1qda92/GTV.jpg?dl=0"" group-title="INDONESIA", GLOBALTV 1
 https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/gj76v4jkc1qda92/GTV.jpg?dl=0" group-title="INDONESIA", GLOBALTV 2 
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-gtv-ZalogiAstroXTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pQpRNWt/461-4613928-mnc-tv-logo.png" group-title="INDONESIA", MNCTV 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3mm7iqn4ty1jlev/mnc%20tv.jpg?dl=0" group-title="INDONESIA", MNCTV 1
 https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000=2.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/3mm7iqn4ty1jlev/mnc%20tv.jpg?dl=0" group-title="BASIC TERRESTRIAL",MNCTV 2 
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-mnc-ZalogiAstroXTV.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2N8WVCN/search-xhdpi-rtv.jpg" group-title="INDONESIA", RTV 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GH6MbRb/logo-rtv-small1.png" group-title="INDONESIA", RTV 1
 http://rr2.dens.tv/s/s12/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=RTV
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2N8WVCN/search-xhdpi-rtv.jpg" group-title="INDONESIA",RTV 2
-https://salonbondang.masuk.web.id/ekonomis/stream/vidio-rtv-ZalogiAstroXTV.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2N8WVCN/search-xhdpi-rtv.jpg" group-title="INDONESIA",RTV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GH6MbRb/logo-rtv-small1.png" group-title="INDONESIA",RTV 2
+http://103.130.186.138:8800/oxygenplay/rtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GH6MbRb/logo-rtv-small1.png" group-title="INDONESIA",RTV 3
 https://salonbondang.masuk.web.id/ekonomis/stream/rtv-ZalogiAstroXTV.m3u8
 
 
@@ -187,9 +200,9 @@ https://salonbondang.masuk.web.id/ekonomis/stream/rtv-ZalogiAstroXTV.m3u8
 
 <============ KIDS SERVER USEETV & ACAK ============>
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="ANAK-ANAK", KIDS 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VDTqT54/logo-mykids-small.png" group-title="ANAK-ANAK", KIDS 1
 https://mkctv.net/usetvvv/mykids.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mykids_small.png" group-title="ANAK-ANAK", KIDZ 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VDTqT54/logo-mykids-small.png" group-title="ANAK-ANAK", KIDZ 2
 http://rr.dens.tv/h/h98/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=My_Kidz_HD
 
 
