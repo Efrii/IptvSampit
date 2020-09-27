@@ -282,11 +282,11 @@ https://salonbondang.masuk.web.id/ekonomis/stream/nickjr-ZalogiAstroXTV.m3u8
 https://chama.ml/channelgratisan-NICKJr
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fS59qbC/download.jpg" group-title="INDONESIA", MIAOMI
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fS59qbC/download.jpg" group-title="ANAK-ANAK", MIAOMI
 https://chama.ml/channelgratisan-MIAOMI
 
 
-#EXTINF:-1 group-title="KIDS CHANNEL" tvg-logo="https://i.postimg.cc/tJLR7MH5/ZooMoo.png",ZOOMOO
+#EXTINF:-1 group-title="ANAK-ANAK" tvg-logo="https://i.postimg.cc/tJLR7MH5/ZooMoo.png",ZOOMOO
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-zoomoo-ZalogiAstroXTV.m3u8
 
 
@@ -294,16 +294,32 @@ https://salonbondang.masuk.web.id/ekonomis/stream/premi-zoomoo-ZalogiAstroXTV.m3
 https://chama.ml/channelgratisan-DISNEYCH
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s3rnzF7/images.png" group-title="INDONESIA", KIDSTV TEST
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3rnzF7/images.png" group-title="ANAK-ANAK", KIDSTV TEST
 https://chama.ml/channelgratisan-KIDSTV
 
 
-#EXTINF:-1 group-title="INDONESIA", TEENICK
-http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/45851.m3u8
+#EXTINF:-1 tvg-logo="https://www.adventisttv.org/assets/img/main/3ABN_Kids_Big.png" group-title="ANAK-ANAK", 3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
-#EXTINF:-1 group-title="INDONESIA", UNIVERSAL KIDS
-http://iptv-line.com:7899/live/yassinabarbie8/xvQmjCx4/110088.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/1280px-CBeebies.svg.png" group-title="ANAK-ANAK", CBEEBIES TEST
+http://51.52.156.22:8888/http/003
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -330,10 +346,6 @@ https://mkctv.net/usetvvv/axn.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KXRDRF1/logo-citradrama-small.png" group-title="HIBURAN", CITRA DRAMA
 https://mkctv.net/usetvvv/bioskop.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="HIBURAN", USEETV KBS WORLD
-http://thepwfamily.com/stream/kbsworld.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k1HGxX4/logo-kplus-small1.png" group-title="HIBURAN", K+ 1
@@ -501,32 +513,6 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(50332677-b1c4-47d4
 
 ============================ MOVIE =====================================
 
-#EXTINF:-1 group-title="INDONESIA", FOX ACTION MOVIES
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
-
-#EXTINF:-1 group-title="INDONESIA", TEST LOL
-http://185.246.210.115:25461/Ro7aV0uWPD/KeBEiJi8Xz/55430?play_token=QNhUT7JnE7&token=GRdRWUpbQV9BUAgDVgYHUQNWDAUBBAtRCwcFAgFSAAcEDQsPCFJQVAURFEQQFxAGVQxnD1YVCVQGV1cCHEFNQgdHZlFdEVlHUgEOVlZBTkFACFUDEA0CVApVUgMEUw4IThdJUV0RWQsWX1RKQQYaF1ETVgdeaFcERQoHVxJZVkQOWRUaVl08AQZeWQgHQVhBBUMURFtEQ0MJDRFeXE8aUwtBS1lNVkFfDUZUCk9BAQxBD0wUSxUJQ346Rh4SBkBFB1tKUVZdQV9BR0tET0ELEGsTXRVGRVYAXgYWEApBCBNOF1RZQWwACg1dXQUXCg0NR0MCRAMVH0NeDApbRAxKbhJcXRoDXRYJD04=
-
-#EXTINF:-1 tvg-ID="FOX.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/7L5J5QdP/fox4.png",FOX
-https://delivery.macan.network/stream/id_fox?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FOXActionMovies.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/T3qMZDy0/foxact4.png",FOX Action Movies
-https://delivery.macan.network/stream/id_foxactionmovies?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FOXCrime.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/fRhQ2Kbk/foxcr4.png",FOX Crime
-https://delivery.macan.network/stream/id_foxcrime?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png",FOX Family Movies
-https://delivery.macan.network/stream/id_foxfamilymovies?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FOXFamilyMovies.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/dQpYdvP2/foxFam4.png",FOX Family Movies IDN
-https://delivery.macan.network/stream/foxfamilymovies_idn?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FoxLife.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/SNgSHk1j/FOXLIFE.png",FOX Life
-https://delivery.macan.network/stream/id_foxlife?token=uzybv&v=20200308
-
-#EXTINF:-1 tvg-ID="FOXMoviesPremium.id" group-title="MOVIES SPESIAL CHANNEL" tvg-logo="https://i.postimg.cc/4NcTQMsr/foxM4.png",FOX Movies
-https://delivery.macan.network/stream/id_foxmoviespremium?token=uzybv&v=20200308
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8cr6Sjz/search-xhdpi-hindo.jpg" group-title="INDONESIA", HI ID TEST
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(dd5267e3-7a01-4e8d-81d8-a7bb927636e9)/manifest.mpd
@@ -542,9 +528,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(86fd852d-e9cb-453c
 
 
 
-
-
-
+===================== FASHION =================================
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="FASHION", Fashion TV MIDNIGHT
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
@@ -602,20 +586,12 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 
 
-#EXTINF:-1 group-title="INDONESIA", 3ABN KIDS TEST
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 
 
 
 
-#EXTINF:-1 group-title="INDONESIA", CBEEBIES TEST
-http://51.52.156.22:8888/http/003
-
-
-
-
-#EXTINF:-1 group-title="INDONESIA", BRITIS MUSLIM TEST
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-avc1_150000=2-mp4a_65600_eng=1.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/496946176554323968/mvKcSPoE.jpeg" group-title="RELIGI", BRITIS MUSLIM
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/british_muslim_tv-avc1_2000000=2-mp4a_65600_eng=1.m3u8
 
 #EXTINF:-1 group-title="INDONESIA", ALIMAN TEST
 http://tv.aliman.id:1935/aliman/HD/playlist.m3u8
