@@ -586,6 +586,39 @@ https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8      	
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4LtfRP/s1.png" group-title="SPORTS", SPORT TV1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4LtfRP/s1.png" group-title="SPORTS", SPORT TV1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8      	
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/SV8t9s1/s2.png"  group-title="SPORTS",SPORT TV2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/SV8t9s1/s2.png"  group-title="SPORTS",SPORT TV2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8      	
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/njZRkzP/s3.png"  group-title="SPORTS",SPORT TV3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/njZRkzP/s3.png"  group-title="SPORTS",SPORT TV3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8      	
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/C5kN9Kh/s4.png"  group-title="SPORTS",SPORT TV4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/C5kN9Kh/s4.png"  group-title="SPORTS",SPORT TV4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8      	
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/m5c9Cgm/s5.png"  group-title="SPORTS",SPORT TV5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/m5c9Cgm/s5.png"  group-title="SPORTS",SPORT TV5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8      	
+
+#EXTINF:- 1 tvg-logo="https://i.pinimg.com/originals/9c/17/98/9c1798e1b95e4685732b64f1a29d16a1.jpg"  group-title="SPORTS",BT SPORT1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/RQDM4kY/bt2.png"  group-title="SPORTS",BT SPORT2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:- 1 tvg-logo="https://i.ibb.co/XS8vzTG/bt.jpg"  group-title="SPORTS",BT SPORT ESPN HD
+http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/6892a852e6a23d3.m3u8
 
 
 
@@ -1189,3 +1222,4 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/medi
 
 #EXTINF:-1 group-title="MUSIC AYSAR",AYSAR BOX HITS
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+ 
