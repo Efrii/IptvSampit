@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
+#EXTINF:-1 group-title="INDONESIA", NAGASWARA LIVE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1601456350/ei/fvRzX8exCYiVwgPWy7XAAg/ip/180.241.180.137/id/wtSVwhMX5RU.11/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/1080/maudio/1/vprv/1/go/1/keepalive/yes/fexp/23915654/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgYEhUp0ocd_0ZZDk9ZXNl5nOnDYiANmdFNGAngoVzV4cCIQC7DAnZV5IxGxlp4BTGl5e9g-hSKNVKesb6fFBIwc9MsQ%3D%3D/file/index.m3u8
+
 #EXTINF:-1 group-title="INDONESIA", HBO FAM
 https://mkctv.net/josmkc/hbofam.m3u8
 
