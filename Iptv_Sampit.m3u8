@@ -456,6 +456,37 @@ http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34809?play_token=
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/hbosig-logo.jpg" group-title="HIBURAN", HBO SIG 
 http://195.154.184.150:25461/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/34800?play_token=AlFtFYOnO5&token=QhVcUhcJRggXU1BfUVQCA1ABBFIFVF1TVlYHVVFSAFlbB1YKXAIHCwBGGURBEkJRAFtpWgVEXlBRXAVRSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBQCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nwFzzw/hbo.png" group-title="MOVIES", HBO 
+http://me.zichannels.my.id/ch/hbo.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1nwFzzw/hbo.png" group-title="MOVIES", HBO (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8	
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="MOVIES", HBO Family
+http://me.zichannels.my.id/ch/family.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Hbo_family.png" group-title="MOVIES", HBO Family (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8	
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Yg5Fd0/sig.png" group-title="MOVIES", HBO Signature
+http://me.zichannels.my.id/ch/sighd.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5Yg5Fd0/sig.png" group-title="MOVIES", HBO Signature (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHRsWvF/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits
+http://me.zichannels.my.id/ch/hits.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zHRsWvF/HBOHits-ASIA.png" group-title="MOVIES", HBO Hits (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8	
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJLG877/Screen-RED-logo.jpg" group-title="MOVIES", HBO Red
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8      	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJLG877/Screen-RED-logo.jpg" group-title="MOVIES", HBO Red
+http://me.zichannels.my.id/ch/red.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/dJLG877/Screen-RED-logo.jpg" group-title="MOVIES", HBO Red (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzWSvmc/cinemax.png" group-title="MOVIES", Cinemax
+http://me.zichannels.my.id/ch/max.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzWSvmc/cinemax.png" group-title="MOVIES", Cinemax
+https://raw.githubusercontent.com/zalindo/tv/master/cinemax.m3u8	
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gzWSvmc/cinemax.png" group-title="MOVIES", Cinemax (Multi Bahasa)
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8	
 
 
 
@@ -1148,7 +1179,7 @@ http://rr.dens.tv/h/h22/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341h
 
 
 
-
+ 
 
 #EXTINF:-1 group-title="LIFE STYLE",FASHION MIDNITE
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
