@@ -4,26 +4,11 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
-#EXTINF:-1 group-title="INDONESIA", NAGASWARA LIVE
-http://ts.ec.cx:8080/hls1/disneyxd.m3u8?_19
-
-#EXTINF:-1 group-title="INDONESIA", HBO FAM
-https://mkctv.net/josmkc/hbofam.m3u8
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vuuqfuqq0eaedea/mola.jpg?dl=0" group-title="SPORTS", MOLA TV 1
 https://cdn-mxs-01.akamaized.net/Content/HLS/Live/channel(02d97239-cf8c-abac-8549-afd56a0b3924)/06.m3u8
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vuuqfuqq0eaedea/mola.jpg?dl=0" group-title="SPORTS", MOLA TV 2
 https://salonbondang.masuk.web.id/ekonomis/stream/vidio-mola-ZalogiAstroXTV.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/18dj8bw/search-xhdpi-ruangterampil.jpg" group-title="INDONESIA", RUANG TRAMPIL 
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(56a81d9a-f190-463b-9a01-42f85674e8bd)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/6BqL4zX/logo-useephoto-small.png" group-title="INDONESIA", USEE PHOTO 
-https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(28342aae-356c-46c1-b150-98ac3fb0fd5c)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3mkm4cY/logo-useeprime-small1.png" group-title="LIFE STYLE", USEE PRIME
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(e7243cff-628b-45a9-8361-11bade1e6021)/manifest.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m05mKgX/logo-idku2-small.png" group-title="INDONESIA", ID KU
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(9c829723-9b34-49fd-bce4-53efa462576b)/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LPRGHpN/logo-tvri-small1.png" group-title="INDONESIA", TVRI NASIONAL 1
@@ -518,6 +503,16 @@ http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xXvmpgz/logo-foxsports3-small.png" group-title="SPORTS", FOXSPORT 3
 http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w0YhQHc/logo-bein1-small1.png" group-title=SPORTS", BEIN SPORT 1
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5YsWxfz/logo-bein2-small1.png" group-title="SPORTS", BEIN SPORT 2
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/K2WL032/a1818.png" group-title="SPORTS", TRUE PREMIER FOOTBALL 1
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1LTCD2C/tv-station-true-premier-football-2-1819.png" group-title="SPORTS", TRUE PREMIER FOOTBALL 2
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png" group-title="SPORTS", BeinSports HD3
 http://185.246.210.56:2200/EX/bein3FHD-ar/tracks-v1a1/mono.m3u8?token=  
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qx4hMQ4/hd3.png" group-title="SPORTS", BeinSports HD3
@@ -554,16 +549,6 @@ http://fariszah.myq-see.com:8008/live/demo/demo/2316.m3u8
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/e76bf6c69cd42a7.m3u8	
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nQ07w3Q/hd12.jpg" group-title="SPORTS", BeinSports HD12
 http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/3ab230f8b2389fb.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w0YhQHc/logo-bein1-small1.png" group-title=SPORTS", BEIN SPORT 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5YsWxfz/logo-bein2-small1.png" group-title="SPORTS", BEIN SPORT 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/K2WL032/a1818.png" group-title="SPORTS", TRUE PREMIER FOOTBALL 1
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/1LTCD2C/tv-station-true-premier-football-2-1819.png" group-title="SPORTS", TRUE PREMIER FOOTBALL 2
-https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0JN1fgM/t2.png" group-title="SPORTS", True 2 HD
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
@@ -834,34 +819,9 @@ http://210.210.155.35/qwr9ew/s/s26/02.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQfdmmvr7MxCcxD2NK4s9WV3d-_xH0YwZdGiw&usqp=CAU" group-title="KNOWLEDGE", LOVE NATURE
 https://salonbondang.masuk.web.id/ekonomis/stream/premi-love-nature-ZalogiAstroXTV.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="KNOWLEDGE",CGTN DOCUMENTARY
-http://thepwfamily.com/stream/cgtndocumentary.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="KNOWLEDGE", HGTV
 https://salonbondang.masuk.web.id/ekonomis/stream/hgtv-ZalogiAstroXTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="SPORTS", CHAMPION TV 1 HD
-http://thepwfamily.com/stream/champions1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="SPORTS", CHAMPION TV 2 HD
-http://thepwfamily.com/stream/champions2.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="SPORTS", USEE SPORT 1
-http://thepwfamily.com/stream/useesports1.m3u8
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesports2_small.png" group-title="SPORTS", USEE SPORT 2
-http://thepwfamily.com/stream/useesports2.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="ENTERTAIMENT", LIFE TIME
-http://thepwfamily.com/stream/lifetime.m3u8
-
-#EXTINF:-1 tvg-logo="http://thepwfamily.com/tvmalaysiatvsingapore/tv_online-indonesia.png" group-title="ENTERTAIMENT", CRIME INVESTIGATION
-http://thepwfamily.com/stream/crimeinvestigation.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="HIBURAN", IMC
-http://thepwfamily.com/stream/imc.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/3.jpg" group-title="INDONESIA", LIVE STREAMING 2
 http://rr3.dens.tv/s/s37/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Live_Streaming_1
@@ -908,15 +868,11 @@ http://rr3.dens.tv/s/s36/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/102.jpg" group-title="MUSIC", SHOWBIZ
 http://rr3.dens.tv/s/s35/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Dens_ShowBiz_Trial-
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="SPORT", USEE BLUE ANT EXTREAM HD
-http://thepwfamily.com/stream/blueantextreme.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="SPORT", BLUE ANT EXTREAM SD
 http://210.210.155.35/session/52acdc30-30c4-11e9-b47d-c81f66f89318/dr9445/h/h15/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="SPORT", BLUE ANT EXTREAM HD
 http://rr1.dens.tv/h/h15/index10.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Blue_Ant_Extreme_HD
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES", USEE BLUE ANT ENTERTAINMENT HD
-http://thepwfamily.com/stream/blueant.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT SD
 http://210.210.155.35/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="MOVIES",BLUE ANT ENTERTAINMENT HD
@@ -969,9 +925,6 @@ http://210.210.155.35/uq2663/h/h05/index.m3u8
 http://rr.dens.tv/h/h05/index11.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=FIGHT_SPORTS_HD
 
 
-#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="INDONESIA", MYTV
-https://edge.nim.mivo.tv/intv6vkhr543hkwt/intv_all/playlist.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=MYTV
-
 
 #EXTINF:-1 tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="INDONESIA", POP MUSIK
 http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/playlist.m3u8
@@ -1005,56 +958,7 @@ http://210.210.155.35/qwr9ew/s/s10/02.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News", MOSCOW TV
-http://210.210.155.35/qwr9ew/s/s23/02.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI RACING 2
-http://shamsi.xyz:25461/live/admin/admin/87.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI SPORT 3
-http://shamsi.xyz:25461/live/admin/admin/85.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI RACING
-http://shamsi.xyz:25461/live/admin/admin/86.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI SPORT 2
-http://shamsi.xyz:25461/live/admin/admin/84.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI SPORT
-http://shamsi.xyz:25461/live/admin/admin/83.m3u8
-
-#EXTINF:-1 group-title="BERITA LUAR" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", DUBAI DVD
-http://shamsi.xyz:25461/live/admin/admin/78.m3u8
-
-#EXTINF:-1 group-title="BERITA LUAR" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", NEWS WORLD
-http://shamsi.xyz:25461/live/admin/admin/74.m3u8
-
-
-
-#EXTINF:-1 group-title="ANAK-ANAKA" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png",THE CARTOON
-http://shamsi.xyz:25461/live/admin/admin/41.m3u8
-
-#EXTINF:-1 group-title="ANAK-ANAKA" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png",THE CHLES
-http://shamsi.xyz:25461/live/admin/admin/39.m3u8
-
-#EXTINF:-1 group-title="HIBURAN LUAR" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", MOVIE HD
-http://shamsi.xyz:25461/live/admin/admin/2.m3u8
-
-
-
-
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png", BEIN SPORT SD 2
-http://shamsi.xyz:25461/live/admin/admin/593.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="SPORTS", RED BULL TV
@@ -1062,8 +966,6 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="SPORTS", BEIN SPORT HD 12
-http://shamsi.xyz:25461/live/admin/admin/615.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.iconfinder.com/data/icons/covid-19-2/64/12-Mask-512.png" group-title="ANAK-ANAK", BIZNET KIDS
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w848292459_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
@@ -1203,9 +1105,6 @@ http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News", JEK TV
 http://122.248.43.138:1935/ch14/myStream/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Vod Luar" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92697/14040323.png" group-title="News", NBC KPVI
-http://beyondstreamz.net:25461/live/Ouiga/779393/130991.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="News", EGG NETWORK SD ID
 http://rr.dens.tv/h/h22/index.m3u8
