@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
+#EXTINF:-1 tvg-logo="",TEST
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(e59d69e1-46c0-47e5-8542-92e3aeb6c0bb)/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18dj8bw/search-xhdpi-ruangterampil.jpg" group-title="INDONESIA", RUANG TRAMPIL 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6BqL4zX/logo-useephoto-small.png" group-title="INDONESIA", USEE PHOTO 
