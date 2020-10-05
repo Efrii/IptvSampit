@@ -4,6 +4,14 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/18dj8bw/search-xhdpi-ruangterampil.jpg" group-title="INDONESIA", RUANG TRAMPIL 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6BqL4zX/logo-useephoto-small.png" group-title="INDONESIA", USEE PHOTO 
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3mkm4cY/logo-useeprime-small1.png" group-title="LIFE STYLE", USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
 #EXTINF:-1 tvg-logo="", MAGNA CHANNEL 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
