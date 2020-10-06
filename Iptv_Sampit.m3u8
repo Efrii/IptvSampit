@@ -4,10 +4,10 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="",test
-https://t4-id-1.nim.mivo.tv/wm3d5ndxxds8h3kr/antv2_all/skrz1j8exe/antv2_576p/chunks.m3u8?nimblesessionid=203979087&wmsAuthSign=c2VydmVyX3RpbWU9MTAvNS8yMDIwIDU6MTE6MjQgUE0maGFzaF92YWx1ZT1EOURTNXQ3Slk1WGx5a0J5aUF1ODFBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Njc5MTc0MXwzNi43NS42Ni42Ng==
+#EXTINF:-1 tvg-logo="", TV PARLEMEN
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="",TECSTROM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1wVW2M/logo.png",TECSTROM
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/18dj8bw/search-xhdpi-ruangterampil.jpg" group-title="INDONESIA", RUANG TRAMPIL 
