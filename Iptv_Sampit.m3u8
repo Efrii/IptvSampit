@@ -4,6 +4,9 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
+#EXTINF:-1 tvg-logo="", TEST
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
 #EXTINF:-1 tvg-logo="", RADIO TEST
 http://masima.rastream.com/masima-pramborsjakarta
 
