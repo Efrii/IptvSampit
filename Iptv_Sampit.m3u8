@@ -630,6 +630,11 @@ http://stream-2dbbef9f1a23f8f.nmbs.top/m3u8/Sports/6892a852e6a23d3.m3u8
 
 
 ========================== TV DAERAH =================================
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA", JOGJA TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INDONESIA", DUTA TV
+https://v2.siar.us/dutatv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kS48mq9/portrait-xhdpi-hip-9.jpg" group-title="INDONESIA", LOMBOK TV 
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(274d8cf1-729a-4acc-8ff2-69b1c4f70be7)/manifest.mpd
@@ -642,6 +647,7 @@ https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(3f2bda63-5cbc-4db7
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XXdXmKC/logo-balitv-small1.png" group-title="INDONESIA", BALI TEST
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(3473945a-c61b-4c44-bfe7-1e09499b9cf9)/manifest.mpd
+
 
 
 
