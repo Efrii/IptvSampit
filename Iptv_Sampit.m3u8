@@ -5,7 +5,7 @@
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
 #EXTINF:-1 tvg-logo="", RADIO TEST
-https://r.sindonews.tv/globalfm/
+http://masima.rastream.com/masima-pramborsjakarta
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zmX5yMj/396411740.jpg", DPR JANCOKKK
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
@@ -21,7 +21,7 @@ https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(f1b6e507-d639-4
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="INDONESIA", ID KU
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/manifest.mpd
-#EXTINF:-1 tvg-logo="", MAGNA CHANNEL 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PrbKrcG/Magna-Channel.png", MAGNA CHANNEL 
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(85534711-b312-4ed5-8832-6fe000e8fb86)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/vuuqfuqq0eaedea/mola.jpg?dl=0" group-title="SPORTS", MOLA TV 1
