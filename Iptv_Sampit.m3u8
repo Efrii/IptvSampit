@@ -4,7 +4,10 @@
 #EXTINF:-1 tvg-logo="", BACA DULU YA
 https://dl.dropboxusercontent.com/s/ob92eshx1q71oj3/fix.mp4?dl=0
 
-#EXTINF:-1 tvg-logo="", TV PARLEMEN
+#EXTINF:-1 tvg-logo="", RADIO TEST
+https://r.sindonews.tv/globalfm/
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x1wVW2M/logo.png", TV PARLEMEN
 http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x1wVW2M/logo.png",TECSTROM
